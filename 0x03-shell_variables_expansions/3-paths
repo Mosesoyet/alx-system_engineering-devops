@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv | grep $PATH
+find . -type d | grep $PATH
