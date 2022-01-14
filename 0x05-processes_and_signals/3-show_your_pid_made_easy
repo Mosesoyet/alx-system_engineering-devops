@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # A script to list my bash pid
-ps -l |grep "bash"
+
+pgrep -l "bash"
