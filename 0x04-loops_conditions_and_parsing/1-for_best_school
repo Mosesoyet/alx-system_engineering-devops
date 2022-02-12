@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # print "Best School 10 times
-
-for ((for c=1; c<=10; c++))
+for _I in $(seq 1 10);
 do
    echo "Best School"
 done
