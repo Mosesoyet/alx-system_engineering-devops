@@ -1,6 +1,6 @@
 # WEB INFRASTRUCTURE
 
-This project is so vital and it covers all the we need to know about web infrastructure.
+This project is so vital and it covers all that we need to know about web infrastructure.
 
 In this project, the following will be covered;
 
