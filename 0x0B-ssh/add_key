@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Add a public key to my server
+
+ssh-copy-id -i ~/.ssh/alx.pub ubuntu@35.243.253.251
