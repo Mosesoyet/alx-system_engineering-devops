@@ -16,3 +16,5 @@ What DNS stands for
 
 What is DNS main role
 
+The web server used is nginx
+
